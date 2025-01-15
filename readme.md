@@ -1,4 +1,4 @@
-# Simulación de Oscilador Doble
+# Simulación de Pendulo Doble
 
 Este proyecto simula el movimiento de un péndulo doble utilizando el método Ralston-Rabinowitz (RK) para resolver las ecuaciones de movimiento. El objetivo es simular el sistema, calcular su dinámica y generar resultados como las trayectorias y energías de los osciladores.
 
